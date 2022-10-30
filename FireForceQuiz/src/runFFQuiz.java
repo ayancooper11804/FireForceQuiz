@@ -57,6 +57,10 @@ public class runFFQuiz {
 		 }
 	 }
 	 
+	 /**
+	  * This method holds the anime version of the Fire Force Quiz, quizzing the user with questions
+	  * based of what has been shown in the anime thus far (Seasons 1 & 2).
+	  */
 	 public static void animeOnlyQuiz() {
 			String input;
 			int score = 0;
